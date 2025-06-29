@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Restaurants</title>
+		<style>
+			body {
+				font-family: Arial;
+				margin: 2rem;
+			}
+			.card {
+				border: 1px solid #ccc;
+				border-radius: 8px;
+				padding: 1rem;
+				margin-bottom: 1rem;
+				max-width: 500px;
+			}
+			img {
+				width: 100%;
+				border-radius: 8px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>FoodDraft</h1>
+		<div id="restaurant-list"></div>
+
+		<script>
+			fetch('http://127.0.0.1:8000/restaurants')
+				.then((response) => response.json())
+				.then((data) => {
+					const container = document.getElementById('restaurant-list');
+					data.forEach((restaurant) => {
+						const card = document.createElement('div');
+						card.className = 'card';
+						card.innerHTML = `
+          <h2>${restaurant.name}</h2>
+          <img src="${restaurant.header_image}" alt="${restaurant.name}">
+          <p><strong>Delivery:</strong> ${restaurant.delivery_time}</p>
+        `;
+						container.appendChild(card);
+					});
+				})
+				.catch((error) => {
+					console.error('Error:', error);
+				});
+		</script>
+	</body>
+</html>

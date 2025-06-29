@@ -1,0 +1,2292 @@
+[
+  {
+    "name": "Grandeappetito",
+    "url": "https://www.pyszne.pl/menu/grandeappetito",
+    "rating": "3,5(160+)",
+    "rating_count": "160+",
+    "cuisine_types": null,
+    "delivery_time": "60-80 min",
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": null
+  },
+  {
+    "name": "Michapycha",
+    "url": "https://www.pyszne.pl/menu/michapycha",
+    "rating": "4,5(26)",
+    "rating_count": "26",
+    "cuisine_types": null,
+    "delivery_time": "30-55 min",
+    "delivery_cost": "8zł Dostawa",
+    "min_order": null
+  },
+  {
+    "name": "Grandeappetito",
+    "url": "https://www.pyszne.pl/menu/grandeappetito",
+    "rating": "3,5(160+)",
+    "rating_count": "160+",
+    "cuisine_types": "Polska, Pizza",
+    "delivery_time": "60-80 min",
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Michapycha",
+    "url": "https://www.pyszne.pl/menu/michapycha",
+    "rating": "4,5(26)",
+    "rating_count": "26",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": "30-55 min",
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "McDonald's Lublin, VIVO",
+    "url": "https://www.pyszne.pl/menu/mcdonalds-lublin-vivo",
+    "rating": "3,8(26)",
+    "rating_count": "26",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Doner Kebab",
+    "url": "https://www.pyszne.pl/menu/doner-kebab-aleja-tysiaclecia-lublin",
+    "rating": "3,5(7)",
+    "rating_count": "7",
+    "cuisine_types": "Turecka, Gyros",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Pasibus",
+    "url": "https://www.pyszne.pl/menu/pasibus-lublin-vivo",
+    "rating": "4,5(52)",
+    "rating_count": "52",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Sotto i Denti Pizza",
+    "url": "https://www.pyszne.pl/menu/sotto-i-denti-pizza",
+    "rating": "4,4(77)",
+    "rating_count": "77",
+    "cuisine_types": "Włoska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "7zł Dostawa",
+    "min_order": "Min. 32,00zł"
+  },
+  {
+    "name": "WingStreet od Pizza Hut Tarasy Zamkowe",
+    "url": "https://www.pyszne.pl/menu/wingstreet-tarasy-zamkowe",
+    "rating": "5(2)",
+    "rating_count": "2",
+    "cuisine_types": "Przekąski, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Lody Ice Cream NOW - Lublin II",
+    "url": "https://www.pyszne.pl/menu/lody-ice-cream-now-lublin-ii",
+    "rating": "3,7(7)",
+    "rating_count": "7",
+    "cuisine_types": "Desery, Zakupy online",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Gan Bei Bubble Tea",
+    "url": "https://www.pyszne.pl/menu/gan-bei-bubble-tea",
+    "rating": "4,2(19)",
+    "rating_count": "19",
+    "cuisine_types": "Śniadania , Inne napoje",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "McDonald's Lublin, Krakowskie Przedmieście",
+    "url": "https://www.pyszne.pl/menu/mcdonalds-lublin-krakowskie-przedmiescie",
+    "rating": "4,1(230+)",
+    "rating_count": "230+",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Peccato Pizzeria Rynek",
+    "url": "https://www.pyszne.pl/menu/peccato-pizzeria-rynek",
+    "rating": "4,6(32)",
+    "rating_count": "32",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Wyrollowani Kebab",
+    "url": "https://www.pyszne.pl/menu/wyrollowani-kebab-lublin",
+    "rating": "4,3(6)",
+    "rating_count": "6",
+    "cuisine_types": "Kuchnia Arabska, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "DajTo Sushi",
+    "url": "https://www.pyszne.pl/menu/dajto-sushi",
+    "rating": "4,1(31)",
+    "rating_count": "31",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "14zł Dostawa",
+    "min_order": "Min. 80,00zł"
+  },
+  {
+    "name": "Carrefour",
+    "url": "https://www.pyszne.pl/menu/carrefour-aleja-wincentego-witosa",
+    "rating": "4,7(52)",
+    "rating_count": "52",
+    "cuisine_types": "Zakupy online",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Olimp",
+    "url": "https://www.pyszne.pl/menu/olimp-lublin-al-unii-lubelskiej",
+    "rating": "4,5(11)",
+    "rating_count": "11",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Bistro Przy Peronie",
+    "url": "https://www.pyszne.pl/menu/bistro-przy-peronie-krochmalna",
+    "rating": null,
+    "rating_count": null,
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Pizza Hut, Tarasy Zamkowe",
+    "url": "https://www.pyszne.pl/menu/pizza-hut-tarasy-zamkowe",
+    "rating": "4(78)",
+    "rating_count": "78",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Arianos Kebab",
+    "url": "https://www.pyszne.pl/menu/arianos-kebab-lipowa",
+    "rating": "4(8)",
+    "rating_count": "8",
+    "cuisine_types": "Turecka, Gyros",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "McDonald's Lublin, Plaza Shopping Center",
+    "url": "https://www.pyszne.pl/menu/mcdonalds-lublin-plaza-shopping-center",
+    "rating": "3,6(120+)",
+    "rating_count": "120+",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Maxi Pizza",
+    "url": "https://www.pyszne.pl/menu/maxi-pizza-lublin",
+    "rating": "4,4(980+)",
+    "rating_count": "980+",
+    "cuisine_types": "Burgery, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Ambaras",
+    "url": "https://www.pyszne.pl/menu/ambaras",
+    "rating": "4,8(23)",
+    "rating_count": "23",
+    "cuisine_types": "Kanapki, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "6zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Dostana Kebab Śliwińskiego",
+    "url": "https://www.pyszne.pl/menu/dostana-kebab-sliwinskiego",
+    "rating": "3,1(5)",
+    "rating_count": "5",
+    "cuisine_types": "Turecka, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "KEBABIFY",
+    "url": "https://www.pyszne.pl/menu/kebabify",
+    "rating": "4(9)",
+    "rating_count": "9",
+    "cuisine_types": "Kebab",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "SUSHIPAK",
+    "url": "https://www.pyszne.pl/menu/sushipak-lbn",
+    "rating": "4,7(160+)",
+    "rating_count": "160+",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "6zł Dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Restauracja Mix-Fix",
+    "url": "https://www.pyszne.pl/menu/mix-fix",
+    "rating": "5(2)",
+    "rating_count": "2",
+    "cuisine_types": "Curry, Indyjska",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Zielony Talerzyk",
+    "url": "https://www.pyszne.pl/menu/zielony-talerzyk-krlewska",
+    "rating": "4,6(17)",
+    "rating_count": "17",
+    "cuisine_types": "Wegańska, Polska",
+    "delivery_time": null,
+    "delivery_cost": "11zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Restauracja Makani",
+    "url": "https://www.pyszne.pl/menu/makani-lublin",
+    "rating": "4,8(160+)",
+    "rating_count": "160+",
+    "cuisine_types": "Chińska, Tajska",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Encanto Bistro",
+    "url": "https://www.pyszne.pl/menu/encanto-bistro-lublin",
+    "rating": "3,7(3)",
+    "rating_count": "3",
+    "cuisine_types": "Burgery, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Osama Sushi",
+    "url": "https://www.pyszne.pl/menu/osama-sushi-lublin-1",
+    "rating": "4(93)",
+    "rating_count": "93",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Chisza",
+    "url": "https://www.pyszne.pl/menu/chisza",
+    "rating": "4,7(270+)",
+    "rating_count": "270+",
+    "cuisine_types": "Zupy, Sałatki",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Bona Restaurant",
+    "url": "https://www.pyszne.pl/menu/bona-restaurant",
+    "rating": "4,7(46)",
+    "rating_count": "46",
+    "cuisine_types": "Makarony, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Hello India",
+    "url": "https://www.pyszne.pl/menu/hello-india-lublin",
+    "rating": "4,5(43)",
+    "rating_count": "43",
+    "cuisine_types": "Wegetariańska, Curry",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "McDonald's Lublin, Galeria Olimp",
+    "url": "https://www.pyszne.pl/menu/mcdonalds-lublin-galeria-olimp",
+    "rating": "4(180+)",
+    "rating_count": "180+",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Star Kebab",
+    "url": "https://www.pyszne.pl/menu/star-kebab-lubartowska",
+    "rating": "4,7(81)",
+    "rating_count": "81",
+    "cuisine_types": "Kebab",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Omen Pizza",
+    "url": "https://www.pyszne.pl/menu/omen-pizza",
+    "rating": "4,6(210+)",
+    "rating_count": "210+",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Restauracja Sielsko Anielsko",
+    "url": "https://www.pyszne.pl/menu/sielsko-anielsko-lublin-rynek",
+    "rating": "4,9(14)",
+    "rating_count": "14",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Makarun",
+    "url": "https://www.pyszne.pl/menu/makarun-lublin-aleja-unii-lubelskiej",
+    "rating": "3,1(6)",
+    "rating_count": "6",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Prusa 8 Lokal Kulinarny",
+    "url": "https://www.pyszne.pl/menu/prusa-8-lokal-kulinarny-lublin-prusa",
+    "rating": "4(20)",
+    "rating_count": "20",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Burger King",
+    "url": "https://www.pyszne.pl/menu/burger-king-al-unii-lubelskiej-lublin",
+    "rating": "4,1(9)",
+    "rating_count": "9",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Erbil Doner Kebab VIVO Lublin",
+    "url": "https://www.pyszne.pl/menu/erbil-doner-kebab-vivo-lublin",
+    "rating": "3,8(51)",
+    "rating_count": "51",
+    "cuisine_types": "Sałatki, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "KFC, Aleja Tysiąclecia",
+    "url": "https://www.pyszne.pl/menu/kfc-aleja-tysiaclecia",
+    "rating": "4,4(79)",
+    "rating_count": "79",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Bar a boo",
+    "url": "https://www.pyszne.pl/menu/bar-a-boo-lublin",
+    "rating": "4,5(65)",
+    "rating_count": "65",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Zapiekarony od Pizza Hut, Tarasy Zamkowe",
+    "url": "https://www.pyszne.pl/menu/zapiekarony-od-pizza-hut-tarasy-zamkowe",
+    "rating": "3,9(6)",
+    "rating_count": "6",
+    "cuisine_types": "Amerykańska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Bar Kaprys",
+    "url": "https://www.pyszne.pl/menu/bar-kaprys-lwowska",
+    "rating": "4,7(250+)",
+    "rating_count": "250+",
+    "cuisine_types": "Dania na lunch, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Gruzińskie Smaki",
+    "url": "https://www.pyszne.pl/menu/mala-gruzja-piekarnia-gruzinska-1-maja",
+    "rating": "4,9(21)",
+    "rating_count": "21",
+    "cuisine_types": "Gruzińska, Zakupy online",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Bistro u Mili",
+    "url": "https://www.pyszne.pl/menu/bistro-u-mili",
+    "rating": "4,6(46)",
+    "rating_count": "46",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Restauracja Galeria Smaku",
+    "url": "https://www.pyszne.pl/menu/galeria-smaku-lublin",
+    "rating": "4,5(110+)",
+    "rating_count": "110+",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "U Fotografa - Craft Beer Pub",
+    "url": "https://www.pyszne.pl/menu/u-fotografa-craft-beer-pub-lublin",
+    "rating": "4,5(37)",
+    "rating_count": "37",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "T-Pizza (wcześniej Telepizza)",
+    "url": "https://www.pyszne.pl/menu/t-pizza-wczesniej-telepizza-lublin",
+    "rating": "4,6(140+)",
+    "rating_count": "140+",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "5zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Piekarnia Gruzińska Kikodze Twins",
+    "url": "https://www.pyszne.pl/menu/piekarnia-gruzinska-kikodze-twins",
+    "rating": "5(15)",
+    "rating_count": "15",
+    "cuisine_types": "Gruzińska, Zakupy online",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Małe Indie",
+    "url": "https://www.pyszne.pl/menu/male-indie",
+    "rating": "4,7(16)",
+    "rating_count": "16",
+    "cuisine_types": "Wegetariańska, Wegańska",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 100,00zł"
+  },
+  {
+    "name": "Pyzata Chata",
+    "url": "https://www.pyszne.pl/menu/pyzata-chata",
+    "rating": "4,4(270+)",
+    "rating_count": "270+",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Da Grasso",
+    "url": "https://www.pyszne.pl/menu/da-grasso-lublin-kalinowszczyzna",
+    "rating": "4,3(120+)",
+    "rating_count": "120+",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "5,50zł Dostawa",
+    "min_order": "Min. 14,00zł"
+  },
+  {
+    "name": "Oishi Japanese Restaurant",
+    "url": "https://www.pyszne.pl/menu/oishi-japanese-restaurant-kosciuszki",
+    "rating": "4,3(14)",
+    "rating_count": "14",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "15zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "McDonald's Lublin, Makro",
+    "url": "https://www.pyszne.pl/menu/mcdonalds-lublin-makro",
+    "rating": "3,5(230+)",
+    "rating_count": "230+",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Zaczarowana Dorożka",
+    "url": "https://www.pyszne.pl/menu/zaczarowana-dorozka-lublin-grodzka",
+    "rating": "3,9(15)",
+    "rating_count": "15",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Kebab Turecki-Własna Produkcja",
+    "url": "https://www.pyszne.pl/menu/kebab-turecki-wlasna-produkcja-krakowskie-przedmiescie",
+    "rating": "4,1(35)",
+    "rating_count": "35",
+    "cuisine_types": "Dania na lunch, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Fish'ka Sushi",
+    "url": "https://www.pyszne.pl/menu/fishka-sushi-lublin",
+    "rating": "4,7(140+)",
+    "rating_count": "140+",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Subway",
+    "url": "https://www.pyszne.pl/menu/subway-unii-lubelskiej",
+    "rating": "4,7(5)",
+    "rating_count": "5",
+    "cuisine_types": "Kanapki, Wrapy",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "The Burgers",
+    "url": "https://www.pyszne.pl/menu/the-burgers-lublin-unii-lubelskiej",
+    "rating": "3,3(55)",
+    "rating_count": "55",
+    "cuisine_types": "Wegetariańska, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "1,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Ukraińskie smaki",
+    "url": "https://www.pyszne.pl/menu/bistro-ukrainskie-smaki-moja-inspiracja",
+    "rating": "4,4(240+)",
+    "rating_count": "240+",
+    "cuisine_types": "Polska, Ukraińska",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Kebab u Szejka",
+    "url": "https://www.pyszne.pl/menu/kebab-u-szejka-lublin",
+    "rating": "4,1(35)",
+    "rating_count": "35",
+    "cuisine_types": "Falafel, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Sphinx",
+    "url": "https://www.pyszne.pl/menu/sphinx-unii-lubelskiej-lublin",
+    "rating": "2,7(86)",
+    "rating_count": "86",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "1,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Czarna Owca Gastro Pub",
+    "url": "https://www.pyszne.pl/menu/czarna-owca-gastro-pub",
+    "rating": "4(85)",
+    "rating_count": "85",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 75,00zł"
+  },
+  {
+    "name": "Damaszek Kebab",
+    "url": "https://www.pyszne.pl/menu/damaszek-kebab-lublin",
+    "rating": "3,2(17)",
+    "rating_count": "17",
+    "cuisine_types": "Przekąski, Kuchnia Arabska",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Boru Ramen Shop",
+    "url": "https://www.pyszne.pl/menu/boru-ramen-shop-lublin",
+    "rating": "4,9(95)",
+    "rating_count": "95",
+    "cuisine_types": "Japońska, Koreańska",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Halka-Restauracja",
+    "url": "https://www.pyszne.pl/menu/halka-restauracja",
+    "rating": "4,2(57)",
+    "rating_count": "57",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Indian Palace Restauracja Indyjska",
+    "url": "https://www.pyszne.pl/menu/indian-palace-restauracja-indyjska",
+    "rating": "4,4(56)",
+    "rating_count": "56",
+    "cuisine_types": "Tajska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "CiociaGotuje.pl",
+    "url": "https://www.pyszne.pl/menu/ciociagotujepl-lublin-narutowicza",
+    "rating": "4,5(5)",
+    "rating_count": "5",
+    "cuisine_types": "Dania na lunch, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Pijana Wiśnia",
+    "url": "https://www.pyszne.pl/menu/pijana-wisnia-krakowskie-przedmiescie-lublin",
+    "rating": null,
+    "rating_count": null,
+    "cuisine_types": "Alkohol, Zakupy online",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "My Kebab",
+    "url": "https://www.pyszne.pl/menu/my-kebab-lublin-kotaja",
+    "rating": "4,4(100+)",
+    "rating_count": "100+",
+    "cuisine_types": "Kuchnia Arabska, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "W Chlebaku Bistro",
+    "url": "https://www.pyszne.pl/menu/w-chlebaku-bistro",
+    "rating": "4,9(11)",
+    "rating_count": "11",
+    "cuisine_types": "Śniadania , Kanapki",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Parownia Dim Sum Bar",
+    "url": "https://www.pyszne.pl/menu/parownia-dim-sum-bar-lublin",
+    "rating": "4,6(14)",
+    "rating_count": "14",
+    "cuisine_types": "Chińska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "9,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Sweet & Spicy Restauracja Indyjska",
+    "url": "https://www.pyszne.pl/menu/sweet-spicy-restauracja-indyjska",
+    "rating": "4,6(17)",
+    "rating_count": "17",
+    "cuisine_types": "Wegańska, Indyjska",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Crazy Bubble",
+    "url": "https://www.pyszne.pl/menu/crazy-bubble-lublin-unii",
+    "rating": "5(1)",
+    "rating_count": "1",
+    "cuisine_types": "Bubble Tea",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Stół i Wół Bramowa",
+    "url": "https://www.pyszne.pl/menu/stol-i-wol-bramowa",
+    "rating": "4,2(22)",
+    "rating_count": "22",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Pizza Bros",
+    "url": "https://www.pyszne.pl/menu/pizza-bros-krochmalna",
+    "rating": "4,6(620+)",
+    "rating_count": "620+",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 43,00zł"
+  },
+  {
+    "name": "Restauracja Staropolska",
+    "url": "https://www.pyszne.pl/menu/staropolska-lublin",
+    "rating": "3,9(16)",
+    "rating_count": "16",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "GITPIZZA",
+    "url": "https://www.pyszne.pl/menu/gitpizza",
+    "rating": "4,9(120+)",
+    "rating_count": "120+",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "9zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Pijalnia Czekolady E.Wedel",
+    "url": "https://www.pyszne.pl/menu/pijalnia-czekolady-ewedel-lublin",
+    "rating": "4,1(12)",
+    "rating_count": "12",
+    "cuisine_types": "Desery, Naleśniki",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Santos Caffe & Pizza",
+    "url": "https://www.pyszne.pl/menu/santos-caffe-pizza",
+    "rating": "4,3(24)",
+    "rating_count": "24",
+    "cuisine_types": "Burgery, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Ciacho bez cukru",
+    "url": "https://www.pyszne.pl/menu/ciacho-bez-cukru-tadeusza-kociuszki-3-lublin",
+    "rating": "5(4)",
+    "rating_count": "4",
+    "cuisine_types": "Ciasta, Śniadania",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Manufaktura Naleśnika",
+    "url": "https://www.pyszne.pl/menu/manufaktura-nalesnika",
+    "rating": "4,3(3)",
+    "rating_count": "3",
+    "cuisine_types": "Dania na lunch, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "McDonald's Lublin, Tysiąclecia",
+    "url": "https://www.pyszne.pl/menu/mcdonalds-lublin-tysiaclecia",
+    "rating": "4(220+)",
+    "rating_count": "220+",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Masami Sushi",
+    "url": "https://www.pyszne.pl/menu/masami-sushi-lublin",
+    "rating": "4,7(200+)",
+    "rating_count": "200+",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "9,99zł Dostawa",
+    "min_order": "Min. 49,00zł"
+  },
+  {
+    "name": "Rykowisko - Pizza Amerykańska",
+    "url": "https://www.pyszne.pl/menu/rykowisko-pizza-amerykanska",
+    "rating": "4,7(1200+)",
+    "rating_count": "1200+",
+    "cuisine_types": "Włoska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "9zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Alince's Thai restaurant",
+    "url": "https://www.pyszne.pl/menu/alinces-thai-restaurant",
+    "rating": "4,6(110+)",
+    "rating_count": "110+",
+    "cuisine_types": "Chińska, Tajska",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Imperial Kebab",
+    "url": "https://www.pyszne.pl/menu/imperial-kebab-lublin",
+    "rating": "2,9(55)",
+    "rating_count": "55",
+    "cuisine_types": "Turecka, Kanapki",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Red Rock Take Out",
+    "url": "https://www.pyszne.pl/menu/red-rock-take-out-lublin",
+    "rating": "4(90)",
+    "rating_count": "90",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Portobello Pizza",
+    "url": "https://www.pyszne.pl/menu/portobello-pizza",
+    "rating": "4,6(550+)",
+    "rating_count": "550+",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Kebab Północna",
+    "url": "https://www.pyszne.pl/menu/kebab-pnocna-lublin",
+    "rating": "4,2(100+)",
+    "rating_count": "100+",
+    "cuisine_types": "Turecka, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Garmażerka Koziołek",
+    "url": "https://www.pyszne.pl/menu/garmazerka-koziolek",
+    "rating": "4,6(42)",
+    "rating_count": "42",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Kobi Sushi",
+    "url": "https://www.pyszne.pl/menu/kobi-sushi-lublin",
+    "rating": "4,6(12)",
+    "rating_count": "12",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "16zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Orient Kebab",
+    "url": "https://www.pyszne.pl/menu/orient-kebab",
+    "rating": "4,7(350+)",
+    "rating_count": "350+",
+    "cuisine_types": "Gyros, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Takami Sushi & Thai",
+    "url": "https://www.pyszne.pl/menu/takami-sushi-thai",
+    "rating": "4,7(31)",
+    "rating_count": "31",
+    "cuisine_types": "Sushi, Tajska",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Veneziano",
+    "url": "https://www.pyszne.pl/menu/veneziano",
+    "rating": "4,8(33)",
+    "rating_count": "33",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Kebab Północna Night",
+    "url": "https://www.pyszne.pl/menu/kebab-pnocna-night-lublin",
+    "rating": "4,3(120+)",
+    "rating_count": "120+",
+    "cuisine_types": "Turecka, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "BIG COCK Murrican Pizza",
+    "url": "https://www.pyszne.pl/menu/big-cock-murrican-pizza",
+    "rating": "4,7(390+)",
+    "rating_count": "390+",
+    "cuisine_types": "Amerykańska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "9zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Prosto z mostu",
+    "url": "https://www.pyszne.pl/menu/prosto-z-mostu-lublin-aleje-zygmuntowskie-4",
+    "rating": "4,6(29)",
+    "rating_count": "29",
+    "cuisine_types": "Burgery, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 90,00zł"
+  },
+  {
+    "name": "Angelo Pizza&Restaurant",
+    "url": "https://www.pyszne.pl/menu/angelo-pizzarestaurant-chodzki",
+    "rating": "3,9(30)",
+    "rating_count": "30",
+    "cuisine_types": "Włoska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Tosaka Sushi",
+    "url": "https://www.pyszne.pl/menu/tosaka-sushi",
+    "rating": "4,7(330+)",
+    "rating_count": "330+",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Ranch Burger & Pizza",
+    "url": "https://www.pyszne.pl/menu/ranch-burger-pizza-szeligowskiego-lublin",
+    "rating": "4,4(190+)",
+    "rating_count": "190+",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "11zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Crown Kebab Andersa",
+    "url": "https://www.pyszne.pl/menu/crown-kebab-andersa-aleja-generala-wladyslawa-andersa",
+    "rating": "4,5(50)",
+    "rating_count": "50",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Kebab i Nie Tylko",
+    "url": "https://www.pyszne.pl/menu/kebab-i-nie-tylko-lublin",
+    "rating": "4,7(19)",
+    "rating_count": "19",
+    "cuisine_types": "Turecka, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Thai Dom",
+    "url": "https://www.pyszne.pl/menu/thai-dom-lublin-narutowicza",
+    "rating": "4,7(100+)",
+    "rating_count": "100+",
+    "cuisine_types": "Tajska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "9,99zł Dostawa",
+    "min_order": "Min. 49,00zł"
+  },
+  {
+    "name": "Giuseppe",
+    "url": "https://www.pyszne.pl/menu/giuseppe",
+    "rating": "4,5(31)",
+    "rating_count": "31",
+    "cuisine_types": "Sałatki, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Mom's cake",
+    "url": "https://www.pyszne.pl/menu/moms-cake",
+    "rating": "4,7(41)",
+    "rating_count": "41",
+    "cuisine_types": "Ciasta, Śniadania",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Bistro VIET HOME Lublin",
+    "url": "https://www.pyszne.pl/menu/bistro-viet-home-lublin",
+    "rating": "4,9(130+)",
+    "rating_count": "130+",
+    "cuisine_types": "Chińska, Tajska",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Giuseppe-sklep",
+    "url": "https://www.pyszne.pl/menu/giuseppe-sklep",
+    "rating": "5(2)",
+    "rating_count": "2",
+    "cuisine_types": "Zakupy online",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Zona Ristorante",
+    "url": "https://www.pyszne.pl/menu/zona-ristorante",
+    "rating": "4,5(63)",
+    "rating_count": "63",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Wesoła Pani - Smakuje Jak w Domu",
+    "url": "https://www.pyszne.pl/menu/wesola-pani-smakuje-jak-w-domu-krakowskie",
+    "rating": "5(7)",
+    "rating_count": "7",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Index Pizzeria",
+    "url": "https://www.pyszne.pl/menu/index-pizzeria",
+    "rating": "4,4(75)",
+    "rating_count": "75",
+    "cuisine_types": "Włoska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "6zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Tobi Burger",
+    "url": "https://www.pyszne.pl/menu/tobi-burger",
+    "rating": "4,4(28)",
+    "rating_count": "28",
+    "cuisine_types": "Burgery, Przekąski",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Kalyna kuchnia ukraińska & europejska",
+    "url": "https://www.pyszne.pl/menu/kalyna-kuchnia-ukrainska-europejska",
+    "rating": "4,1(22)",
+    "rating_count": "22",
+    "cuisine_types": "Dania na lunch, Międzynarodowa",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Restauracja Victoria",
+    "url": "https://www.pyszne.pl/menu/victoria-lublin",
+    "rating": "4,5(18)",
+    "rating_count": "18",
+    "cuisine_types": "Polska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Restauracja Szwejk",
+    "url": "https://www.pyszne.pl/menu/szwejk",
+    "rating": "3,6(27)",
+    "rating_count": "27",
+    "cuisine_types": "Międzynarodowa, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "North Fish",
+    "url": "https://www.pyszne.pl/menu/north-fish-lublin-ch-plaza",
+    "rating": "4,6(130+)",
+    "rating_count": "130+",
+    "cuisine_types": "Ryby, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Gruby Benek",
+    "url": "https://www.pyszne.pl/menu/gruby-benek-lublin",
+    "rating": "4,5(110+)",
+    "rating_count": "110+",
+    "cuisine_types": "Wegetariańska, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Hanoi n U",
+    "url": "https://www.pyszne.pl/menu/hanoi-n-u",
+    "rating": "4,5(100+)",
+    "rating_count": "100+",
+    "cuisine_types": "Tajska, Wietnamska",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Costa Coffee",
+    "url": "https://www.pyszne.pl/menu/costa-coffee-lublin-lipowa",
+    "rating": null,
+    "rating_count": null,
+    "cuisine_types": "Kawa, Inne napoje",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Encepence Pizzeria & Pub",
+    "url": "https://www.pyszne.pl/menu/encepence-pizzeria-pub",
+    "rating": "4,5(140+)",
+    "rating_count": "140+",
+    "cuisine_types": "Włoska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "7zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Restauracja Sao-Mai",
+    "url": "https://www.pyszne.pl/menu/sao-mai",
+    "rating": "4,1(100+)",
+    "rating_count": "100+",
+    "cuisine_types": "Chińska, Wietnamska",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Lin's Restaurant - Restauracja Tajwańska",
+    "url": "https://www.pyszne.pl/menu/lins-restaurant-restauracja-tajwanska",
+    "rating": "4,5(16)",
+    "rating_count": "16",
+    "cuisine_types": "Chińska",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Pierogarnia Lubelska",
+    "url": "https://www.pyszne.pl/menu/pierogarnia-lubelska-mieczysawa-biernackiego",
+    "rating": "5(1)",
+    "rating_count": "1",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Eat&Go",
+    "url": "https://www.pyszne.pl/menu/eatgo",
+    "rating": "4,6(520+)",
+    "rating_count": "520+",
+    "cuisine_types": "Tajska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "11,50zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Flavors of India",
+    "url": "https://www.pyszne.pl/menu/flavors-of-india",
+    "rating": "4,7(54)",
+    "rating_count": "54",
+    "cuisine_types": "Curry, Indyjska",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Mamusiny Garnek",
+    "url": "https://www.pyszne.pl/menu/mamusiny-garnek",
+    "rating": "4,7(340+)",
+    "rating_count": "340+",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Rani Indian Restaurant",
+    "url": "https://www.pyszne.pl/menu/rani-indian-restaurant",
+    "rating": "4,5(130+)",
+    "rating_count": "130+",
+    "cuisine_types": "Dania na lunch, Curry",
+    "delivery_time": null,
+    "delivery_cost": "9zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Dostana Kebab",
+    "url": "https://www.pyszne.pl/menu/dostana-kebab",
+    "rating": "4,5(260+)",
+    "rating_count": "260+",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Ambaras",
+    "url": "https://www.pyszne.pl/menu/ambaras-lublin-chodzki",
+    "rating": "4,9(28)",
+    "rating_count": "28",
+    "cuisine_types": "Kanapki, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Dostana Kebab",
+    "url": "https://www.pyszne.pl/menu/dostana-kebab-lipowa",
+    "rating": "3,9(66)",
+    "rating_count": "66",
+    "cuisine_types": "Falafel, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Subway",
+    "url": "https://www.pyszne.pl/menu/subway-aleja-spoldzielczosci-pracy",
+    "rating": "3,5(5)",
+    "rating_count": "5",
+    "cuisine_types": "Kanapki, Wrapy",
+    "delivery_time": null,
+    "delivery_cost": "3zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Red Rock City",
+    "url": "https://www.pyszne.pl/menu/red-rock-city-lublin",
+    "rating": "4,3(420+)",
+    "rating_count": "420+",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Sini Coffee",
+    "url": "https://www.pyszne.pl/menu/sini-coffee",
+    "rating": "2,7(2)",
+    "rating_count": "2",
+    "cuisine_types": "Śniadania, Sałatki",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Kebab Habiby Chodźki",
+    "url": "https://www.pyszne.pl/menu/kebab-habiby-chodzki",
+    "rating": "2,8(410+)",
+    "rating_count": "410+",
+    "cuisine_types": "Kebab, Sałatki",
+    "delivery_time": null,
+    "delivery_cost": "7,99zł Dostawa",
+    "min_order": "Min. 27,00zł"
+  },
+  {
+    "name": "Chińczyk Wok This Way",
+    "url": "https://www.pyszne.pl/menu/chinczyk-wok-this-way",
+    "rating": "4,3(190+)",
+    "rating_count": "190+",
+    "cuisine_types": "Chińska, Wietnamska",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "U Mustafy Kebab Nadbystrzycka",
+    "url": "https://www.pyszne.pl/menu/u-mustafy-kebab-nadbystrzycka",
+    "rating": "4,1(280+)",
+    "rating_count": "280+",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "9zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Lava",
+    "url": "https://www.pyszne.pl/menu/lava-1",
+    "rating": "4,5(120+)",
+    "rating_count": "120+",
+    "cuisine_types": "Dania na lunch, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "9,99zł Dostawa",
+    "min_order": "Min. 52,00zł"
+  },
+  {
+    "name": "Gruziński Smak",
+    "url": "https://www.pyszne.pl/menu/gruzinski-smak-lublin-tysiaclecia",
+    "rating": null,
+    "rating_count": null,
+    "cuisine_types": "Wegetariańska, Gruzińska",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "My Kebab Lublin 2",
+    "url": "https://www.pyszne.pl/menu/my-kebab-lublin-2",
+    "rating": "4(26)",
+    "rating_count": "26",
+    "cuisine_types": "Falafel, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Pizzeria Metro",
+    "url": "https://www.pyszne.pl/menu/pizzeria-metro-hryniewieckiego",
+    "rating": "4,3(420+)",
+    "rating_count": "420+",
+    "cuisine_types": "Włoska, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "5zł Dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Polonia Cafe - Lubelska Manufaktura Lodów",
+    "url": "https://www.pyszne.pl/menu/polonia-cafe-lubelska-manufaktura-lodow",
+    "rating": "4,3(13)",
+    "rating_count": "13",
+    "cuisine_types": "Śniadania , Desery",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Hōseki Sushi & Ramen",
+    "url": "https://www.pyszne.pl/menu/2-pi-er-sushi-house-lublin",
+    "rating": "4,2(54)",
+    "rating_count": "54",
+    "cuisine_types": "Dania na lunch, Sushi",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 100,00zł"
+  },
+  {
+    "name": "Fabryka Szaszłyka",
+    "url": "https://www.pyszne.pl/menu/fabryka-szaszlyka-lublin-lubartowska",
+    "rating": "4,7(5)",
+    "rating_count": "5",
+    "cuisine_types": "Dania na lunch, Przekąski",
+    "delivery_time": null,
+    "delivery_cost": "2,99zł Dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Legend Kebab",
+    "url": "https://www.pyszne.pl/menu/legend-of-kebab",
+    "rating": "4,4(21)",
+    "rating_count": "21",
+    "cuisine_types": "Kebab",
+    "delivery_time": null,
+    "delivery_cost": "5,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Pierogarnia u Kucharek",
+    "url": "https://www.pyszne.pl/menu/pierogarnia-u-kucharek-lublin",
+    "rating": "3,7(19)",
+    "rating_count": "19",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "15zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Restauracja Składanka",
+    "url": "https://www.pyszne.pl/menu/skladanka",
+    "rating": "5(5)",
+    "rating_count": "5",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Zahir Kebab",
+    "url": "https://www.pyszne.pl/menu/zahir-kebab-lublin-akademicka",
+    "rating": "4(180+)",
+    "rating_count": "180+",
+    "cuisine_types": "Dania na lunch, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "BistroMaja 51",
+    "url": "https://www.pyszne.pl/menu/bistromaja-51",
+    "rating": "4,7(5)",
+    "rating_count": "5",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Ekspres Kwiatowy - Piłsudskiego",
+    "url": "https://www.pyszne.pl/menu/ekspres-kwiatowy-pilsudskiego",
+    "rating": null,
+    "rating_count": null,
+    "cuisine_types": "Zakupy online, Sklepy",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "KFC, Plaza",
+    "url": "https://www.pyszne.pl/menu/kfc-plaza-lublin-plaza",
+    "rating": "4,3(82)",
+    "rating_count": "82",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Am Am Kebab",
+    "url": "https://www.pyszne.pl/menu/am-am-kebab-lublin",
+    "rating": "4,4(20)",
+    "rating_count": "20",
+    "cuisine_types": "Kuchnia Arabska, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Kołacz na Okrągło",
+    "url": "https://www.pyszne.pl/menu/bafra-kebab-lipowa",
+    "rating": "5(1)",
+    "rating_count": "1",
+    "cuisine_types": "Przekąski, Desery",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Restauracja Imperial Kebab",
+    "url": "https://www.pyszne.pl/menu/imperial-kebab-1",
+    "rating": "1,7(2)",
+    "rating_count": "2",
+    "cuisine_types": "Falafel, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "5zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "La Puri",
+    "url": "https://www.pyszne.pl/menu/la-puri-lublin",
+    "rating": "3,5(2)",
+    "rating_count": "2",
+    "cuisine_types": "Pierogi, Gruzińska",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Plackarnia Radziszewskiego",
+    "url": "https://www.pyszne.pl/menu/plackarnia-radziszewskiego",
+    "rating": "4,3(66)",
+    "rating_count": "66",
+    "cuisine_types": "Włoska, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Bułkarnia",
+    "url": "https://www.pyszne.pl/menu/bulkarnia",
+    "rating": "1(1)",
+    "rating_count": "1",
+    "cuisine_types": "Dania na lunch, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Restauracja Pizzeria Salti",
+    "url": "https://www.pyszne.pl/menu/pizzeria-salti",
+    "rating": "4,7(87)",
+    "rating_count": "87",
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "7zł Dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Bar Eter (Radio Lublin)",
+    "url": "https://www.pyszne.pl/menu/bar-eter-radio-lublin",
+    "rating": "4,9(18)",
+    "rating_count": "18",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Zeer Kebab",
+    "url": "https://www.pyszne.pl/menu/zeer-kebab-kunickiego",
+    "rating": "3,8(3)",
+    "rating_count": "3",
+    "cuisine_types": "Turecka, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Mojo Kuchnia i Przyjaciele",
+    "url": "https://www.pyszne.pl/menu/mojo-kuchnia-i-przyjaciele",
+    "rating": "4(95)",
+    "rating_count": "95",
+    "cuisine_types": "Amerykańska, Włoska",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Shamu Shamu - Oriental Food",
+    "url": "https://www.pyszne.pl/menu/shamu-shamu-oriental-food",
+    "rating": "4,8(10)",
+    "rating_count": "10",
+    "cuisine_types": "Sushi, Tajska",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Barmex",
+    "url": "https://www.pyszne.pl/menu/barmex",
+    "rating": "4,6(8)",
+    "rating_count": "8",
+    "cuisine_types": "Ryby, Polska",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Bazylia",
+    "url": "https://www.pyszne.pl/menu/bazylia-lublin-langiewicza",
+    "rating": "4,3(76)",
+    "rating_count": "76",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Garmażerka Salti",
+    "url": "https://www.pyszne.pl/menu/garmazerka-salti",
+    "rating": "4,1(41)",
+    "rating_count": "41",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "7zł Dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Noto Sushi",
+    "url": "https://www.pyszne.pl/menu/noto-sushi",
+    "rating": "4,3(78)",
+    "rating_count": "78",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Crazy Bubble",
+    "url": "https://www.pyszne.pl/menu/crazy-bubble-lipowa",
+    "rating": "4,3(4)",
+    "rating_count": "4",
+    "cuisine_types": "Bubble Tea",
+    "delivery_time": null,
+    "delivery_cost": "4,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Botanico",
+    "url": "https://www.pyszne.pl/menu/botanico",
+    "rating": "4,3(40)",
+    "rating_count": "40",
+    "cuisine_types": "Śniadania , Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Bianca e Livia",
+    "url": "https://www.pyszne.pl/menu/bianca-e-livia",
+    "rating": "4,6(98)",
+    "rating_count": "98",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Kago Sushi",
+    "url": "https://www.pyszne.pl/menu/kago-sushi-1",
+    "rating": "4,8(27)",
+    "rating_count": "27",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Matsu Sushi & Matsu Wok",
+    "url": "https://www.pyszne.pl/menu/matsu-sushi-matsu-wok",
+    "rating": "4,5(96)",
+    "rating_count": "96",
+    "cuisine_types": "Sushi, Tajska",
+    "delivery_time": null,
+    "delivery_cost": "9zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Kebab Turecki",
+    "url": "https://www.pyszne.pl/menu/kebab-turecki-nadbystrzycka",
+    "rating": "4,1(230+)",
+    "rating_count": "230+",
+    "cuisine_types": "Turecka, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "PRL Bar- Kebaby Kraftowe",
+    "url": "https://www.pyszne.pl/menu/prl-bar-kebaby-kraftowe-kunickiego",
+    "rating": "4,6(79)",
+    "rating_count": "79",
+    "cuisine_types": "Turecka, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "5zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Dostana Kebab",
+    "url": "https://www.pyszne.pl/menu/dostana-kebab-turystyczna",
+    "rating": "4,5(38)",
+    "rating_count": "38",
+    "cuisine_types": "Turecka, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Chinese Specialty",
+    "url": "https://www.pyszne.pl/menu/chinese-specialty",
+    "rating": "4(7)",
+    "rating_count": "7",
+    "cuisine_types": "Chińska",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Plackarnia Kurantowa",
+    "url": "https://www.pyszne.pl/menu/plackarnia-kurantowa",
+    "rating": "4,7(53)",
+    "rating_count": "53",
+    "cuisine_types": "Burgery, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Erbil Doner Kebab",
+    "url": "https://www.pyszne.pl/menu/erbil-doner-kebab-lublin-turystyczna",
+    "rating": "4,4(2)",
+    "rating_count": "2",
+    "cuisine_types": "Sałatki, Kuchnia Arabska",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Karczma pod strzechą",
+    "url": "https://www.pyszne.pl/menu/karczma-pod-strzecha-leszczynskiego",
+    "rating": "4,6(38)",
+    "rating_count": "38",
+    "cuisine_types": "Ryby, Zupy",
+    "delivery_time": null,
+    "delivery_cost": "5zł Dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Pyszny Kebab",
+    "url": "https://www.pyszne.pl/menu/pyszny-kebab-ksiedza-jerzego-popieluszki",
+    "rating": "4,3(72)",
+    "rating_count": "72",
+    "cuisine_types": "Turecka, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Little Hanoi",
+    "url": "https://www.pyszne.pl/menu/little-hanoi-mariana-langiewicza",
+    "rating": "4,7(190+)",
+    "rating_count": "190+",
+    "cuisine_types": "Chińska, Wietnamska",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Crown Kebab",
+    "url": "https://www.pyszne.pl/menu/crown-kebab",
+    "rating": "4,6(170+)",
+    "rating_count": "170+",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Jesz Burger & Pizza Company",
+    "url": "https://www.pyszne.pl/menu/jesz-burger-pizza-company",
+    "rating": "3,7(12)",
+    "rating_count": "12",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Loco Taco",
+    "url": "https://www.pyszne.pl/menu/loco-taco",
+    "rating": "4,3(39)",
+    "rating_count": "39",
+    "cuisine_types": "Meksykańska",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Kraftowa107",
+    "url": "https://www.pyszne.pl/menu/kraftowa107",
+    "rating": "3,4(110+)",
+    "rating_count": "110+",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Habanero Kebab",
+    "url": "https://www.pyszne.pl/menu/habanero-kebab-lublin",
+    "rating": "4,9(49)",
+    "rating_count": "49",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Lu'blin",
+    "url": "https://www.pyszne.pl/menu/lublin",
+    "rating": "4,9(50)",
+    "rating_count": "50",
+    "cuisine_types": "Śniadania, Desery",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Kuchnia Smakosza",
+    "url": "https://www.pyszne.pl/menu/kuchnia-smakosza",
+    "rating": "3,6(550+)",
+    "rating_count": "550+",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Restauracja Koncertowa",
+    "url": "https://www.pyszne.pl/menu/koncertowa-lublin",
+    "rating": "4,5(68)",
+    "rating_count": "68",
+    "cuisine_types": "Zupy, Polska",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Zeer Kebab Choiny",
+    "url": "https://www.pyszne.pl/menu/zeer-kebab-choiny-lublin",
+    "rating": "3,7(31)",
+    "rating_count": "31",
+    "cuisine_types": "Turecka, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "PizzaLover",
+    "url": "https://www.pyszne.pl/menu/pizzalover",
+    "rating": "4,3(180+)",
+    "rating_count": "180+",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Subway",
+    "url": "https://www.pyszne.pl/menu/subway-lublin-witosa",
+    "rating": "4,2(10)",
+    "rating_count": "10",
+    "cuisine_types": "Kanapki, Wrapy",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Lunch-Bursaki obiady domowe - catering",
+    "url": "https://www.pyszne.pl/menu/lunch-bursaki-obiady-domowe-catering",
+    "rating": "4,3(31)",
+    "rating_count": "31",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Kebab Habiby Nadbystrzycka",
+    "url": "https://www.pyszne.pl/menu/kebab-habiby-nadbystrzycka",
+    "rating": "3,3(450+)",
+    "rating_count": "450+",
+    "cuisine_types": "Sałatki, Falafel",
+    "delivery_time": null,
+    "delivery_cost": "7,99zł Dostawa",
+    "min_order": "Min. 27,00zł"
+  },
+  {
+    "name": "Kabaret Pizzeria Pub",
+    "url": "https://www.pyszne.pl/menu/kabaret-pizzeria-pub",
+    "rating": "4,9(45)",
+    "rating_count": "45",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Grab Fresh Kebab",
+    "url": "https://www.pyszne.pl/menu/grab-fresh-kebab-lublin",
+    "rating": "4,1(10)",
+    "rating_count": "10",
+    "cuisine_types": "Kebab",
+    "delivery_time": null,
+    "delivery_cost": "11,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Bułka i Kromka",
+    "url": "https://www.pyszne.pl/menu/bulka-i-kromka-lublin-daszynskiego",
+    "rating": null,
+    "rating_count": null,
+    "cuisine_types": "Włoska, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "8,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Abdul Cuda Na Kiju",
+    "url": "https://www.pyszne.pl/menu/abdul-cuda-na-kiju-godebskiego",
+    "rating": "4,8(71)",
+    "rating_count": "71",
+    "cuisine_types": "Wegetariańska, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "12zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "PizzaLover Czechów",
+    "url": "https://www.pyszne.pl/menu/pizzalover-czechow-lublin",
+    "rating": "4,7(210+)",
+    "rating_count": "210+",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "8zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Głodny Królik Kunickiego",
+    "url": "https://www.pyszne.pl/menu/glodny-krolik-kunickiego",
+    "rating": "4,1(290+)",
+    "rating_count": "290+",
+    "cuisine_types": "Turecka, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Burgerji Kunickiego",
+    "url": "https://www.pyszne.pl/menu/burgerji-kunickiego",
+    "rating": "3,1(22)",
+    "rating_count": "22",
+    "cuisine_types": "Burgery, Amerykańska",
+    "delivery_time": null,
+    "delivery_cost": "5zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Stołówka Walentynowicz",
+    "url": "https://www.pyszne.pl/menu/stolowka-walentynowicz",
+    "rating": "4,3(36)",
+    "rating_count": "36",
+    "cuisine_types": "Pierogi, Polska",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Kurczaki od Eliasza",
+    "url": "https://www.pyszne.pl/menu/kurczaki-od-eliasza-weteranow-lublin",
+    "rating": "4,3(34)",
+    "rating_count": "34",
+    "cuisine_types": "Amerykańska, Drób",
+    "delivery_time": null,
+    "delivery_cost": "10zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "TAZA",
+    "url": "https://www.pyszne.pl/menu/taza",
+    "rating": "4,6(20)",
+    "rating_count": "20",
+    "cuisine_types": "Kebab, Promocje",
+    "delivery_time": null,
+    "delivery_cost": "9,99zł Dostawa",
+    "min_order": "Min. 52,00zł"
+  },
+  {
+    "name": "Pizza Napoleońska Harnasie",
+    "url": "https://www.pyszne.pl/menu/pizza-napoleonska-harnasie",
+    "rating": "4,7(270+)",
+    "rating_count": "270+",
+    "cuisine_types": "Włoska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "Bezpłatna dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Pizza Al Nero",
+    "url": "https://www.pyszne.pl/menu/pizza-al-nero",
+    "rating": "4,4(56)",
+    "rating_count": "56",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "15zł Dostawa",
+    "min_order": "Min. 69,00zł"
+  },
+  {
+    "name": "Megustas Bistro",
+    "url": "https://www.pyszne.pl/menu/megustas-bistro-szwajcarska",
+    "rating": "4,3(33)",
+    "rating_count": "33",
+    "cuisine_types": "Meksykańska, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "9,50zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Grill Express",
+    "url": "https://www.pyszne.pl/menu/grill-express-lublin",
+    "rating": "3,8(43)",
+    "rating_count": "43",
+    "cuisine_types": "Ryby, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Brak min. kwoty zamówienia"
+  },
+  {
+    "name": "Bistro Góra Smaków",
+    "url": "https://www.pyszne.pl/menu/bistro-gra-smakw",
+    "rating": "4,7(60)",
+    "rating_count": "60",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Piri Piri Kebab",
+    "url": "https://www.pyszne.pl/menu/piri-piri-kebab-wojciechowska",
+    "rating": "4,7(1300+)",
+    "rating_count": "1300+",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "15zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  },
+  {
+    "name": "Erbil Doner Kebab Felicity Lublin",
+    "url": "https://www.pyszne.pl/menu/erbil-doner-kebab-felicity-lublin",
+    "rating": "3,5(63)",
+    "rating_count": "63",
+    "cuisine_types": "Falafel, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 35,00zł"
+  },
+  {
+    "name": "Pierogi u Kucharek",
+    "url": "https://www.pyszne.pl/menu/pierogi-u-kucharek-lublin-krysztalowa",
+    "rating": "3,8(14)",
+    "rating_count": "14",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 39,99zł"
+  },
+  {
+    "name": "Crown Kebab Jutrzenki",
+    "url": "https://www.pyszne.pl/menu/crown-kebab-jutrzenki",
+    "rating": "4,8(350+)",
+    "rating_count": "350+",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Pyza Dobra Kuchnia",
+    "url": "https://www.pyszne.pl/menu/pyza-dobra-kuchnia-radosci-lublin",
+    "rating": "4,6(62)",
+    "rating_count": "62",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 80,00zł"
+  },
+  {
+    "name": "BRACIAKI",
+    "url": "https://www.pyszne.pl/menu/braciaki-na-skarpie",
+    "rating": "4,6(75)",
+    "rating_count": "75",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12zł Dostawa",
+    "min_order": "Min. 80,00zł"
+  },
+  {
+    "name": "Kebab Turecki Nałęczowska",
+    "url": "https://www.pyszne.pl/menu/kebab-turecki-naleczowska-lublin",
+    "rating": "4,4(110+)",
+    "rating_count": "110+",
+    "cuisine_types": "Turecka, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Plackarnia Monte Cassino",
+    "url": "https://www.pyszne.pl/menu/plackarnia-monte-cassino",
+    "rating": "4,5(74)",
+    "rating_count": "74",
+    "cuisine_types": "Włoska, Burgery",
+    "delivery_time": null,
+    "delivery_cost": "15zł Dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Na Rogatce",
+    "url": "https://www.pyszne.pl/menu/na-rogatce-sielankowa-lublin",
+    "rating": "4,9(14)",
+    "rating_count": "14",
+    "cuisine_types": "Polska, Pierogi",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 45,00zł"
+  },
+  {
+    "name": "Grano Verde",
+    "url": "https://www.pyszne.pl/menu/grano-verde",
+    "rating": "4,4(97)",
+    "rating_count": "97",
+    "cuisine_types": "Burgery, Pizza",
+    "delivery_time": null,
+    "delivery_cost": "Dostępna bezpłatna dostawa",
+    "min_order": "Min. 60,00zł"
+  },
+  {
+    "name": "Gucio - Lunch Bar",
+    "url": "https://www.pyszne.pl/menu/gucio-lunch-bar",
+    "rating": "4,3(7)",
+    "rating_count": "7",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "CLOUD SUSHI & SHISHA",
+    "url": "https://www.pyszne.pl/menu/cloud-sushi-shisha",
+    "rating": "4,3(34)",
+    "rating_count": "34",
+    "cuisine_types": "Sushi, Japońska",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Złoty Kurczak",
+    "url": "https://www.pyszne.pl/menu/zloty-kurczak-lublin",
+    "rating": "4,8(220+)",
+    "rating_count": "220+",
+    "cuisine_types": "Polska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Mimi Pizza",
+    "url": "https://www.pyszne.pl/menu/mimi-pizza-lublin-juranda-1",
+    "rating": "4(140+)",
+    "rating_count": "140+",
+    "cuisine_types": "Włoska, Dania na lunch",
+    "delivery_time": null,
+    "delivery_cost": "7zł Dostawa",
+    "min_order": "Min. 30,00zł"
+  },
+  {
+    "name": "Hanoi n U",
+    "url": "https://www.pyszne.pl/menu/hanoi-n-u-wedrowna",
+    "rating": "4,9(55)",
+    "rating_count": "55",
+    "cuisine_types": "Tajska, Wietnamska",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Dostana Kebab",
+    "url": "https://www.pyszne.pl/menu/dostana-kebab-sympatyczna",
+    "rating": "3,9(100+)",
+    "rating_count": "100+",
+    "cuisine_types": "Turecka, Kebab",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Le Monde",
+    "url": "https://www.pyszne.pl/menu/le-monde",
+    "rating": "4,3(45)",
+    "rating_count": "45",
+    "cuisine_types": "Włoska, Makarony",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Brak min. kwoty zamówienia"
+  },
+  {
+    "name": "Erbil Doner Kebab",
+    "url": "https://www.pyszne.pl/menu/erbil-doner-kebab-lublin-tomasza-zana",
+    "rating": "4,4(9)",
+    "rating_count": "9",
+    "cuisine_types": "Sałatki, Kuchnia Arabska",
+    "delivery_time": null,
+    "delivery_cost": "12,99zł Dostawa",
+    "min_order": "Min. 50,00zł"
+  },
+  {
+    "name": "Good Chicken",
+    "url": "https://www.pyszne.pl/menu/good-chicken-swidnik",
+    "rating": "4,7(2)",
+    "rating_count": "2",
+    "cuisine_types": "Burgery, Przekąski",
+    "delivery_time": null,
+    "delivery_cost": "14,99zł Dostawa",
+    "min_order": "Min. 40,00zł"
+  }
+]
